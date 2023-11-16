@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dev-ne-wrdprs-hepo.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	5b00b59620cf3fb7132ec125331a5115bc66daf9cfe4924daedcdf0557f0004b
+dev-ne-wrdprs-hepo.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	5b00b59620cf3fb7132ec125331a5115bc66daf9cfe4924daedcdf0557f0004b
+dev-ne-wrdprs-hepo.azurewebsites.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.hepo-dakar.com	TRUE	/	FALSE	1999999999	ARRAffinity	5b00b59620cf3fb7132ec125331a5115bc66daf9cfe4924daedcdf0557f0004b
+www.hepo-dakar.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	5b00b59620cf3fb7132ec125331a5115bc66daf9cfe4924daedcdf0557f0004b
+www.hepo-dakar.com	TRUE	/	FALSE	1999999999	SameSite	None
+dev-ne-wrdprs-hepo.azurewebsites.net	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+www.hepo-dakar.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+

@@ -1,0 +1,470 @@
+HTTrack3.49-2 launched on Thu, 16 Nov 2023 19:24:54 at https://dev-ne-wrdprs-hepo.azurewebsites.net/ +www.hepo-dakar.com*
+(httrack https://dev-ne-wrdprs-hepo.azurewebsites.net/ +www.hepo-dakar.com* -N5 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:29:18	Warning: 	Moved Permanently for dev-ne-wrdprs-hepo.azurewebsites.net/robots.txt
+19:29:18	Warning: 	Redirected link is identical because of 'URL Hack' option: dev-ne-wrdprs-hepo.azurewebsites.net/robots.txt and https://dev-ne-wrdprs-hepo.azurewebsites.net/robots.txt
+19:29:18	Warning: 	Warning moved treated for dev-ne-wrdprs-hepo.azurewebsites.net/robots.txt (real one is https://dev-ne-wrdprs-hepo.azurewebsites.net/robots.txt)
+19:29:18	Warning: 	Moved Permanently for dev-ne-wrdprs-hepo.azurewebsites.net/programmes/
+19:29:18	Warning: 	Redirected link is identical because of 'URL Hack' option: dev-ne-wrdprs-hepo.azurewebsites.net/programmes/ and https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/
+19:29:18	Warning: 	File has moved from dev-ne-wrdprs-hepo.azurewebsites.net/programmes/ to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/
+19:41:02	Warning: 	Moved Permanently for https://www.hepo-dakar.com/evenements/atelier-dinformation-et-de-partage-sur-hepo/
+19:41:02	Warning: 	File has moved from https://www.hepo-dakar.com/evenements/atelier-dinformation-et-de-partage-sur-hepo/ to https://www.hepo-dakar.com/atelier-dinformation-et-de-partage-sur-hepo/
+19:41:02	Warning: 	Moved Permanently for https://www.hepo-dakar.com/articles/audience-avec-le-ministre-de-lagriculture-et-de-lequipement-rural-2/
+19:41:02	Warning: 	File has moved from https://www.hepo-dakar.com/articles/audience-avec-le-ministre-de-lagriculture-et-de-lequipement-rural-2/ to https://www.hepo-dakar.com/audience-avec-le-ministre-de-lagriculture-et-de-lequipement-rural-2/
+19:41:02	Warning: 	Moved Permanently for dev-ne-wrdprs-hepo.azurewebsites.net/contact/
+19:41:02	Warning: 	Redirected link is identical because of 'URL Hack' option: dev-ne-wrdprs-hepo.azurewebsites.net/contact/ and https://dev-ne-wrdprs-hepo.azurewebsites.net/contact/
+19:41:02	Warning: 	File has moved from dev-ne-wrdprs-hepo.azurewebsites.net/contact/ to https://dev-ne-wrdprs-hepo.azurewebsites.net/contact/
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0 (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0 (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2 (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.7.2)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.7.2)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/happy-elementor-addons/assets/vendor/slick/fonts/slick.woff (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/happy-elementor-addons/assets/vendor/slick/slick-theme.css?ver=3.7.2)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3)
+19:43:07	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3)
+19:43:08	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3)
+19:43:08	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3)
+19:43:08	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/+http://www.google.com/bot.html (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=23139749)
+19:43:08	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=99
+19:43:08	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=99 to https://dev-ne-wrdprs-hepo.azurewebsites.net/presentation/
+19:43:08	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=172
+19:43:08	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=172 to https://dev-ne-wrdprs-hepo.azurewebsites.net/president/
+19:43:08	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=287
+19:43:08	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=287 to https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/
+19:43:53	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wilda¢-tools-ai-technology-to-browse-the-dating-system-eliminate-scammers-through-the-database/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:44:54	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wantmatures-assessment-a-precisely-what-do-we-realize-regarding-it/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:45:16	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/visibility-wingmana¢-produces-the-dating-profile-to-put-your-best-home-forward/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:45:50	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/their-secret-obsession-evaluation-for-2020-a-hero-impulse-summary/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:46:31	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/the-kinsaa¢-software-helps-suppress-the-scatter-of-diseases-giving-singles-couples-groups-an-easy-way-to-track-their-symptoms/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:46:31	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/the-fixa¢-a-weblog-about-addiction-provides-individual-help-to-individuals-relatives-on-the-way-to-rescue/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:46:37	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/the-appealing-mana¢-a-matt-artisan-their-training-team-have-taught-7000-guys-becoming-enticing-to-women/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:47:24	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/scruff-president-eric-silverberg-astop-sharing-data-with-nations-which-are-aggressive-to-lgbtq-men-and-women/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:47:24	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/scotts-low-priced-flightsa¢-aids-partners-afford-a-lot-more-activities-with-deep-discounts-on-airline-tickets/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:49:12	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/medprosmeet-a-an-internet-dating-resort-where-medical-professionals-move-to-get-a-hold-of-compatible-lovers-which-show-comparable-lifestyles-and-worldviews/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:49:41	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/lesbian-dating-a-find-the-really-love-you-are-searching-for-around/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:51:15	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/is-match-com-worth-it-a-6-reasons-why-you-should-try/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/actualites/)
+19:53:26	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=252
+19:53:26	Warning: 	File has moved from https://www.hepo-dakar.com/?p=252 to https://www.hepo-dakar.com/programmes/transport-logistique/
+21:43:20	Error: 	Exit requested by shell or user
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=242
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=242 to https://www.hepo-dakar.com/programmes/gestion-des-projets/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=237
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=237 to https://www.hepo-dakar.com/programmes/commerce-international/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=224
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=224 to https://www.hepo-dakar.com/programmes/banque-finance-assurance/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=216
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=216 to https://www.hepo-dakar.com/programmes/assistant-de-gestion-pme-pmi/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=189
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=189 to https://www.hepo-dakar.com/programmes/productions-animales/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=921
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=921 to https://www.hepo-dakar.com/programmes/production-horticole/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=211
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=211 to https://www.hepo-dakar.com/programmes/ingenierie-petroliere/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=247
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=247 to https://www.hepo-dakar.com/programmes/marketing-communication/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=229
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=229 to https://www.hepo-dakar.com/programmes/bureautique-secretariat/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=2090
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=2090 to https://www.hepo-dakar.com/licence-professionnelle-banque-finance-assurance/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1062
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1062 to https://www.hepo-dakar.com/programmes/comptabilite-gestion/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=2096
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=2096 to https://www.hepo-dakar.com/licence-professionnelle-gestion-des-entreprises-et-management-des-organisations/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1076
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1076 to https://www.hepo-dakar.com/programmes/gestion-logistique-et-transport/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1068
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1068 to https://www.hepo-dakar.com/programmes/entrepreneuriat-et-gestion-de-pme-pmi/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=2099
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=2099 to https://www.hepo-dakar.com/licence-professionnelle-en-gestion-des-ressources-humaines/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=2093
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=2093 to https://www.hepo-dakar.com/licence-en-droit-des-affaires-et-fiscalite/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1084
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1084 to https://www.hepo-dakar.com/programmes/marketing-communication-2/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1046
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1046 to https://www.hepo-dakar.com/programmes/banque-finance/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1165
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1165 to https://www.hepo-dakar.com/programmes/master-comptabilite-gestion/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1152
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1152 to https://www.hepo-dakar.com/programmes/master-gestion-logistique-et-transport/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=2109
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=2109 to https://www.hepo-dakar.com/master-professionnel-droit-des-affaires-et-fiscalite/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=2112
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=2112 to https://www.hepo-dakar.com/master-professionnel-droit-communautaire/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=2106
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=2106 to https://www.hepo-dakar.com/master-professionnel-economie-et-management-des-mines-et-de-lenvironnement/
+21:44:52	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1143
+21:44:52	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1143 to https://www.hepo-dakar.com/programmes/master-marketing-communication/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=810
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=810 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/agents-conduite-delevage-de-poulet-de-chair/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=723
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=723 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/cs-aviculture/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=894
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=894 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/operateur-de-marketing-digital/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=873
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=873 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/conception-de-circuits-touristiques/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=822
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=822 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/guidage-touristique/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=829
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=829 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/guide-interprete/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=957
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=957 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/technique-de-traitement-et-de-stabilisation-des-fruits-et-legumes/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=932
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=932 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/ouvrier-qualifie-en-technologie-de-transformation-du-lait-et-de-la-creme/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=945
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=945 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/transformation-des-produits-agricoles/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1439
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1439 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/se-defendre-dans-le-monde-numerique/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1462
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1462 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/se-preparer-a-une-cybercrise/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1434
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1434 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/se-proteger-contre-les-cybercriminels/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1429
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1429 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/bien-identifier-linformation-strategique-a-proteger/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1474
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1474 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/developper-sa-cybercompetitivite/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1453
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1453 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/evoluer-dans-le-monde-numerique/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1412
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1412 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/le-vocabulaire-de-la-cyber-securite/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1396
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1396 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/les-menaces-du-cyber-espace/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1306
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1306 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/technique-de-pentest/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1290
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1290 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/hacking-applicatif/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1277
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1277 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/hacking-reseau/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1282
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1282 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/hacking-web/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1298
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1298 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/hacking-windows/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1241
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1241 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/les-fondamentaux-du-hacking/
+21:44:52	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/uploads/2022/02/Hacker-Thumb-a1.webp (from https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/les-fondamentaux-du-hacking/)
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1420
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1420 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/ransomware-comment-sen-proteger/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1381
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1381 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/la-gestion-des-log/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1352
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1352 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/les-bases-de-la-cryptographie/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1370
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1370 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/detection-dintrusions/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1321
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1321 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/les-fondamentaux-niveau-1/
+21:44:52	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1343
+21:44:52	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=1343 to https://dev-ne-wrdprs-hepo.azurewebsites.net/programmes/les-fondamentaux-niveau-2/
+21:44:53	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3140
+21:44:53	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3140 to https://dev-ne-wrdprs-hepo.azurewebsites.net/simple-tips-to-overcome-a-fearful-avoidant-accessory-style-the-woman-standard/
+21:44:53	Error: 	"Method Not Allowed" (405) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/xmlrpc.php (from https://dev-ne-wrdprs-hepo.azurewebsites.net/simple-tips-to-overcome-a-fearful-avoidant-accessory-style-the-woman-standard/)
+21:45:02	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3132
+21:45:02	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3132 to https://dev-ne-wrdprs-hepo.azurewebsites.net/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/
+21:45:02	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3122
+21:45:02	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3122 to https://dev-ne-wrdprs-hepo.azurewebsites.net/the-simplest-way-to-generally-meet-milfs-inside-my-region/
+21:45:03	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/-negative.svg (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.1)
+21:45:03	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/OPR/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.1)
+21:45:03	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2886
+21:45:03	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2886 to https://dev-ne-wrdprs-hepo.azurewebsites.net/zoosks-neueste-innovation-lebhaft-ist-eine-dating-app-in-singles-verwenden-videoclips-teilen-mit-eigenen-privaten-geschichten/
+21:45:03	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2850
+21:45:03	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2850 to https://dev-ne-wrdprs-hepo.azurewebsites.net/zen-benefiel-helps-modify-affairs-through-private-and-business-coaching/
+21:45:03	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2934
+21:45:03	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2934 to https://dev-ne-wrdprs-hepo.azurewebsites.net/zehn-zu-nie-posten-auf-myspace-zu-deinem-crush/
+21:45:03	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3006
+21:45:03	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3006 to https://dev-ne-wrdprs-hepo.azurewebsites.net/yeezy-dating-builds-on-their-momentum-as-a-viral-dating-site-by-dropping-a-software-for-kanye-lovers-musical-enthusiasts/
+21:45:03	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2912
+21:45:03	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2912 to https://dev-ne-wrdprs-hepo.azurewebsites.net/would-you-let-the-app-healthvana-express-your-std-status-you-do-not-need-to/
+21:45:04	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/6-signs-it-is-anot-the-guy-available/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/would-you-let-the-app-healthvana-express-your-std-status-you-do-not-need-to/)
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2862
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2862 to https://dev-ne-wrdprs-hepo.azurewebsites.net/wolaco-sport-ausrustung-ermutigt-paare-anordnen-viel-mehr-fitness-bezogene-termine/
+21:45:04	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/dream-connectionsa¢-performs-romance-tours-to-foster-international-affairs/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/wolaco-sport-ausrustung-ermutigt-paare-anordnen-viel-mehr-fitness-bezogene-termine/)
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3016
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3016 to https://dev-ne-wrdprs-hepo.azurewebsites.net/winning-the-name-game-babynames-com-works-moms-and-dads-select-perfect-title-because-of-their-baby/
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2976
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2976 to https://dev-ne-wrdprs-hepo.azurewebsites.net/why-you-ought-tont-give-up-on-internet-dating/
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2838
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2838 to https://dev-ne-wrdprs-hepo.azurewebsites.net/why-you-need-to-eliminate-dating-software-following-a-break-up/
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2840
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2840 to https://dev-ne-wrdprs-hepo.azurewebsites.net/why-we-kiss-under-the-mistletoe-and-ways-to-still-do-it-in-2010/
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2748
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2748 to https://dev-ne-wrdprs-hepo.azurewebsites.net/why-men-anxiety-your-own-getting-rejected/
+21:45:04	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/chatspin-review-a-exactly-what-do-we-realize-regarding-it/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/why-men-anxiety-your-own-getting-rejected/)
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2760
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2760 to https://dev-ne-wrdprs-hepo.azurewebsites.net/whenever-can-it-be-okay-to-attend-an-exs-wedding/
+21:45:04	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/catholic-singles-review-a-what-exactly-do-we-know-about-this/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/whenever-can-it-be-okay-to-attend-an-exs-wedding/)
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2900
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2900 to https://dev-ne-wrdprs-hepo.azurewebsites.net/when-shes-maybe-not-prepared-present-her-wide-variety/
+21:45:04	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3052
+21:45:04	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3052 to https://dev-ne-wrdprs-hepo.azurewebsites.net/what-is-ourtime-com-and-how-did-it-help-you/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2814
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2814 to https://dev-ne-wrdprs-hepo.azurewebsites.net/wellhello-dating-website-assessment-for-2020/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3010
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3010 to https://dev-ne-wrdprs-hepo.azurewebsites.net/we-have-never-ever-met-face-to-face-are-i-wasting-my-personal-time/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2836
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2836 to https://dev-ne-wrdprs-hepo.azurewebsites.net/was-seinfeld-hat-tatsachlich-gelehrt-vereinigte-staaten-uber-liebe/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2792
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2792 to https://dev-ne-wrdprs-hepo.azurewebsites.net/wann-zustand-sicher-zu-geschlecht/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2982
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2982 to https://dev-ne-wrdprs-hepo.azurewebsites.net/viva-vegas-rockabilly-sunday-wows-singles-couples-with-four-days-of-vintage-recreation/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=276
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=276 to https://dev-ne-wrdprs-hepo.azurewebsites.net/audience-avec-le-ministre-de-lagriculture-et-de-lequipement-rural/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2944
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2944 to https://dev-ne-wrdprs-hepo.azurewebsites.net/ukrainedate-review/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2856
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2856 to https://dev-ne-wrdprs-hepo.azurewebsites.net/uberzeugen-ihn-um-nimm-dich-rechts-zuruck/
+21:45:05	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2878
+21:45:05	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2878 to https://dev-ne-wrdprs-hepo.azurewebsites.net/tinder-hackers-obtaining-imaginative-in-trying-to-find-matches/
+21:45:06	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/a-mixture-of-social-commentary-dating-techniques-a-salons-adore-gender-part-is-actually-witty-useful-brazenly-forthright/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/tinder-hackers-obtaining-imaginative-in-trying-to-find-matches/)
+21:45:06	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2824
+21:45:06	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2824 to https://dev-ne-wrdprs-hepo.azurewebsites.net/tinder-bios-for-men-which-will-catch-her-attention/
+21:45:06	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2902
+21:45:06	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2902 to https://dev-ne-wrdprs-hepo.azurewebsites.net/things-guys-require-a-lot-more-than-a-steak-the-blowjob/
+21:45:06	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/dating-coach-john-keegan-of-awakened-lifea¢-provides-singles-the-various-tools-to-create-confidence-relate-solely-to-folks/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/things-guys-require-a-lot-more-than-a-steak-the-blowjob/)
+21:45:06	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2988
+21:45:06	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2988 to https://dev-ne-wrdprs-hepo.azurewebsites.net/the-way-to-get-him-to-phone/
+21:45:06	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2784
+21:45:06	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2784 to https://dev-ne-wrdprs-hepo.azurewebsites.net/the-reason-why-dating-is-specially-difficult-for-entrepreneurs/
+21:45:07	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2962
+21:45:07	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2962 to https://dev-ne-wrdprs-hepo.azurewebsites.net/the-random-acts-of-kindness-base-offers-suggestions-to-help-lovers-bring-more-positivity-their-communities/
+21:45:07	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2746
+21:45:07	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2746 to https://dev-ne-wrdprs-hepo.azurewebsites.net/the-poly-mentor-laurie-ellington-liefert-salbei-emotional-hilfe-bei-definition-von-anbeten-auf-sich-allein-gestellt-allgemeine-geschaftsbedingungen/
+21:45:07	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2890
+21:45:07	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2890 to https://dev-ne-wrdprs-hepo.azurewebsites.net/the-neurobiology-of-adore-and-attachment/
+21:45:07	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2930
+21:45:07	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2930 to https://dev-ne-wrdprs-hepo.azurewebsites.net/the-leather-satchel-co-designs-high-quality-handcrafted-bags-that-make-great-gift-ideas-for-that-significant-other/
+21:45:08	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2778
+21:45:08	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2778 to https://dev-ne-wrdprs-hepo.azurewebsites.net/the-center-for-mind-body-medicine-allows-partners-because-of-the-tools-they-have-to-boost-their-wellness-partnership/
+21:45:08	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2956
+21:45:08	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2956 to https://dev-ne-wrdprs-hepo.azurewebsites.net/stuff-you-must-know-when-dating-in-japan-for-foreign-people/
+21:45:08	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3036
+21:45:08	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3036 to https://dev-ne-wrdprs-hepo.azurewebsites.net/steps-to-make-with-your-own-girlfriend-after-a-fight/
+21:45:09	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3086
+21:45:09	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3086 to https://dev-ne-wrdprs-hepo.azurewebsites.net/start-your-local-hookup-adventure-now/
+21:45:09	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2848
+21:45:09	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2848 to https://dev-ne-wrdprs-hepo.azurewebsites.net/set-aside-your-telephone-on-a-date/
+21:45:10	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2752
+21:45:10	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2752 to https://dev-ne-wrdprs-hepo.azurewebsites.net/see-hall-wines-in-napa-valley-to-enjoy-award-winning-cabernet-sauvignon-share-romantic-moments-with-a-romantic-date/
+21:45:10	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2762
+21:45:10	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2762 to https://dev-ne-wrdprs-hepo.azurewebsites.net/sedo-how-shopping-for-merchandising-domains-can-fortify-the-appreciate-profitability-of-ones-dating-site/
+21:45:10	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2854
+21:45:10	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2854 to https://dev-ne-wrdprs-hepo.azurewebsites.net/schnell-ubernimmt-beziehungen-mit-mars-venus-guru-john-gray/
+21:45:10	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/ dating-rat / wp-content / uploads / images / john.jpg (from https://dev-ne-wrdprs-hepo.azurewebsites.net/schnell-ubernimmt-beziehungen-mit-mars-venus-guru-john-gray/)
+21:45:10	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2770
+21:45:10	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2770 to https://dev-ne-wrdprs-hepo.azurewebsites.net/research-finds-5-types-flirt/
+21:45:10	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2800
+21:45:10	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2800 to https://dev-ne-wrdprs-hepo.azurewebsites.net/report-online-dating-causes-political-polarization/
+21:45:11	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=264
+21:45:11	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=264 to https://dev-ne-wrdprs-hepo.azurewebsites.net/rentree-amphi-pour-les-1eres-annees-de-bts-2017/
+21:45:11	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2844
+21:45:11	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2844 to https://dev-ne-wrdprs-hepo.azurewebsites.net/relationship-hero-giving-expert-advice-on-fancy-and-dating-through-private-cam-conversations/
+21:45:11	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2938
+21:45:11	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2938 to https://dev-ne-wrdprs-hepo.azurewebsites.net/publishers-solution-honor-precisely-why-oregon-city-is-actually-a-must-visit-place-to-go-for-couples-that-like-history/
+21:45:11	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2790
+21:45:11	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2790 to https://dev-ne-wrdprs-hepo.azurewebsites.net/publishers-possibility-honor-truelds-helps-solitary-latter-day-saints-find-partners-exactly-who-share-their-particular-values-and-lifestyles/
+21:45:11	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2734
+21:45:11	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2734 to https://dev-ne-wrdprs-hepo.azurewebsites.net/publishers-possibility-award-profile-pimpers-can-on-line-daters-generate-outstanding-first-impression-charm-their-matches/
+21:45:11	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2822
+21:45:11	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2822 to https://dev-ne-wrdprs-hepo.azurewebsites.net/perfectmatch-are-presented-on-baggage-television-show/
+21:45:11	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2828
+21:45:11	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2828 to https://dev-ne-wrdprs-hepo.azurewebsites.net/our-very-own-assessment-proves-that-mydirtyfling-com-knowingly-uses-fictive-profiles-to-con-folks/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2946
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2946 to https://dev-ne-wrdprs-hepo.azurewebsites.net/otto-symptoms-you-might-not-be-ready-for-a-relationship/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2738
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2738 to https://dev-ne-wrdprs-hepo.azurewebsites.net/online-dating-vs-conventional-dating-12-positives-negatives/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2772
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2772 to https://dev-ne-wrdprs-hepo.azurewebsites.net/online-dating-sites-that-work-in-2021/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2788
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2788 to https://dev-ne-wrdprs-hepo.azurewebsites.net/nzdating-unique-zealand-singles-mingle-on-message-boards-private-chats-in-a-secure-online-dating-community/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2740
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2740 to https://dev-ne-wrdprs-hepo.azurewebsites.net/must-i-permit-my-personal-spouse-guideline-my-spare-time/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2932
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2932 to https://dev-ne-wrdprs-hepo.azurewebsites.net/momsrising-exactly-how-a-grassroots-business-supports-the-interests-of-females-groups-throughout-the-united-states/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2992
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2992 to https://dev-ne-wrdprs-hepo.azurewebsites.net/meetmindful-evaluation/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3102
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3102 to https://dev-ne-wrdprs-hepo.azurewebsites.net/meet-like-minded-singles-and-produce-enduring-connections/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3012
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3012 to https://dev-ne-wrdprs-hepo.azurewebsites.net/matchmaking-a-model/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2744
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2744 to https://dev-ne-wrdprs-hepo.azurewebsites.net/man-gets-destroyed-when-he-attempts-to-call-girls-clingy/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2936
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2936 to https://dev-ne-wrdprs-hepo.azurewebsites.net/maiotaku-assessment-2021/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2974
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2974 to https://dev-ne-wrdprs-hepo.azurewebsites.net/lulu-females-cheating/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2832
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2832 to https://dev-ne-wrdprs-hepo.azurewebsites.net/lektionen-beherrschen-von-ihren-freunden/
+21:45:12	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3112
+21:45:12	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3112 to https://dev-ne-wrdprs-hepo.azurewebsites.net/leading-6-lesbian-dating-programs-a-hand-picked-list-of-typically-the-most-popular-software/
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3032
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3032 to https://dev-ne-wrdprs-hepo.azurewebsites.net/leadership-coach-jennifer-spaulding-applies-like-classes-verso-mondo-degli-affari-semplicemente-aiutare-girls-get-what-they-want/
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3042
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3042 to https://dev-ne-wrdprs-hepo.azurewebsites.net/la-sociedad-de-aetherius-una-global-negocio-une-espiritual-hombres-damas-en-una-meta-cosmica/
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2940
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2940 to https://dev-ne-wrdprs-hepo.azurewebsites.net/la-duree-peut-il-decider-dessayer-obtenez-matchs-sur-eharmony/
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2876
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2876 to https://dev-ne-wrdprs-hepo.azurewebsites.net/kinds-in-order-to-prevent-in-online-dating/
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2986
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2986 to https://dev-ne-wrdprs-hepo.azurewebsites.net/just-what-stars-can-teach-us-about-relationships/
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3048
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3048 to https://dev-ne-wrdprs-hepo.azurewebsites.net/just-how-to-satisfy-girls-on-twitter-easily-as-well-as-hook-up/
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2922
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2922 to https://dev-ne-wrdprs-hepo.azurewebsites.net/just-how-to-protect-your-privacy-on-eharmony-com/
+21:45:13	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/bronymate-evaluation-a-what-exactly-do-we-know-regarding-it/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/just-how-to-protect-your-privacy-on-eharmony-com/)
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3008
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3008 to https://dev-ne-wrdprs-hepo.azurewebsites.net/just-how-to-ask-some-body-out-over-text-8-specialist-tip/
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2872
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2872 to https://dev-ne-wrdprs-hepo.azurewebsites.net/jdate-assessment-2021/
+21:45:13	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/awomen-let-me-know-there-isnt-any-biochemistry-so-just-how-do-i-get-some/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/jdate-assessment-2021/)
+21:45:13	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2732
+21:45:13	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2732 to https://dev-ne-wrdprs-hepo.azurewebsites.net/japancupid-review/
+21:45:14	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3014
+21:45:14	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3014 to https://dev-ne-wrdprs-hepo.azurewebsites.net/is-it-okay-if-she-hangs-out-with-another-guy/
+21:45:14	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2998
+21:45:14	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2998 to https://dev-ne-wrdprs-hepo.azurewebsites.net/is-xmeets-com-nevertheless-operating-a-scam-two-years-later-on-see-within-this-updated-2019-review/
+21:45:14	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2972
+21:45:14	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2972 to https://dev-ne-wrdprs-hepo.azurewebsites.net/in-the-external-banks-boundary-islands-partners-chill-in-the-seashore-explore-the-outside-sightsee-famous-landmarks-in-vermont/
+21:45:14	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2948
+21:45:14	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2948 to https://dev-ne-wrdprs-hepo.azurewebsites.net/idees-de-marche-a-suivre-preparer-en-ligne-rencontres-profil/
+21:45:14	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2888
+21:45:14	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2888 to https://dev-ne-wrdprs-hepo.azurewebsites.net/ideas-on-how-to-win-a-combat-with-your-girlfriend/
+21:45:14	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2918
+21:45:14	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2918 to https://dev-ne-wrdprs-hepo.azurewebsites.net/i-havent-heard-from-him-could-it-be-well-worth-calling-him/
+21:45:14	Error: 	"Not Found" (404) at link https://dev-ne-wrdprs-hepo.azurewebsites.net/akinatora¢-cyberspace-genie-has-grown-to-be-readily-available-as-a-multiplayer-game-for-friends-households-loved-ones/ (from https://dev-ne-wrdprs-hepo.azurewebsites.net/i-havent-heard-from-him-could-it-be-well-worth-calling-him/)
+21:45:14	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2970
+21:45:14	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2970 to https://dev-ne-wrdprs-hepo.azurewebsites.net/i-believe-he-has-something-personally-do-i-need-to-flirt-with-him/
+21:45:15	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2742
+21:45:15	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2742 to https://dev-ne-wrdprs-hepo.azurewebsites.net/how-to-know-if-it-is-enjoy-or-lust/
+21:45:15	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2834
+21:45:15	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2834 to https://dev-ne-wrdprs-hepo.azurewebsites.net/how-to-apologize-like-one/
+21:45:15	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2804
+21:45:15	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2804 to https://dev-ne-wrdprs-hepo.azurewebsites.net/how-will-you-reveal-a-guy-you-like-him/
+21:45:15	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3070
+21:45:15	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=3070 to https://dev-ne-wrdprs-hepo.azurewebsites.net/how-to-find-your-perfect-hot-milf-match-online/
+21:45:15	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2874
+21:45:15	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2874 to https://dev-ne-wrdprs-hepo.azurewebsites.net/how-come-my-personal-commitment-reputation-on-myspace-so-essential-to-women/
+21:45:15	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2996
+21:45:15	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2996 to https://dev-ne-wrdprs-hepo.azurewebsites.net/how-can-you-tell-if-hes-a-keeper/
+21:45:15	Warning: 	Moved Permanently for https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2858
+21:45:15	Warning: 	File has moved from https://dev-ne-wrdprs-hepo.azurewebsites.net/?p=2858 to https://dev-ne-wrdprs-hepo.azurewebsites.net/how-can-i-prevent-choosing-a-bad-guy/
+21:45:15	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0 (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0)
+21:45:15	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0 (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0)
+21:45:15	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2 (from https://www.hepo-dakar.com/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.7.2)
+21:45:15	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff (from https://www.hepo-dakar.com/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.7.2)
+21:45:15	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+21:45:15	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+21:45:16	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3)
+21:45:16	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3)
+21:45:16	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+21:45:16	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3)
+21:45:16	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3)
+21:45:16	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff (from https://www.hepo-dakar.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3)
+21:45:17	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=99
+21:45:17	Warning: 	File has moved from https://www.hepo-dakar.com/?p=99 to https://www.hepo-dakar.com/presentation/
+21:45:17	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=172
+21:45:17	Warning: 	File has moved from https://www.hepo-dakar.com/?p=172 to https://www.hepo-dakar.com/president/
+21:45:17	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=287
+21:45:17	Warning: 	File has moved from https://www.hepo-dakar.com/?p=287 to https://www.hepo-dakar.com/actualites/
+21:45:19	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wilda¢-tools-ai-technology-to-browse-the-dating-system-eliminate-scammers-through-the-database/ (from https://www.hepo-dakar.com/actualites/)
+21:45:20	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wantmatures-assessment-a-precisely-what-do-we-realize-regarding-it/ (from https://www.hepo-dakar.com/actualites/)
+21:45:20	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/visibility-wingmana¢-produces-the-dating-profile-to-put-your-best-home-forward/ (from https://www.hepo-dakar.com/actualites/)
+21:45:21	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/their-secret-obsession-evaluation-for-2020-a-hero-impulse-summary/ (from https://www.hepo-dakar.com/actualites/)
+21:45:21	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/the-kinsaa¢-software-helps-suppress-the-scatter-of-diseases-giving-singles-couples-groups-an-easy-way-to-track-their-symptoms/ (from https://www.hepo-dakar.com/actualites/)
+21:45:21	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/the-fixa¢-a-weblog-about-addiction-provides-individual-help-to-individuals-relatives-on-the-way-to-rescue/ (from https://www.hepo-dakar.com/actualites/)
+21:45:21	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/the-appealing-mana¢-a-matt-artisan-their-training-team-have-taught-7000-guys-becoming-enticing-to-women/ (from https://www.hepo-dakar.com/actualites/)
+21:45:23	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/scruff-president-eric-silverberg-astop-sharing-data-with-nations-which-are-aggressive-to-lgbtq-men-and-women/ (from https://www.hepo-dakar.com/actualites/)
+21:45:23	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/scotts-low-priced-flightsa¢-aids-partners-afford-a-lot-more-activities-with-deep-discounts-on-airline-tickets/ (from https://www.hepo-dakar.com/actualites/)
+21:45:25	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/medprosmeet-a-an-internet-dating-resort-where-medical-professionals-move-to-get-a-hold-of-compatible-lovers-which-show-comparable-lifestyles-and-worldviews/ (from https://www.hepo-dakar.com/actualites/)
+21:45:25	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/lesbian-dating-a-find-the-really-love-you-are-searching-for-around/ (from https://www.hepo-dakar.com/actualites/)
+21:45:26	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/is-match-com-worth-it-a-6-reasons-why-you-should-try/ (from https://www.hepo-dakar.com/actualites/)
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=810
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=810 to https://www.hepo-dakar.com/programmes/agents-conduite-delevage-de-poulet-de-chair/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=723
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=723 to https://www.hepo-dakar.com/programmes/cs-aviculture/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=894
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=894 to https://www.hepo-dakar.com/programmes/operateur-de-marketing-digital/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=873
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=873 to https://www.hepo-dakar.com/programmes/conception-de-circuits-touristiques/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=822
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=822 to https://www.hepo-dakar.com/programmes/guidage-touristique/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=829
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=829 to https://www.hepo-dakar.com/programmes/guide-interprete/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=957
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=957 to https://www.hepo-dakar.com/programmes/technique-de-traitement-et-de-stabilisation-des-fruits-et-legumes/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=932
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=932 to https://www.hepo-dakar.com/programmes/ouvrier-qualifie-en-technologie-de-transformation-du-lait-et-de-la-creme/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=945
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=945 to https://www.hepo-dakar.com/programmes/transformation-des-produits-agricoles/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1439
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1439 to https://www.hepo-dakar.com/programmes/se-defendre-dans-le-monde-numerique/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1462
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1462 to https://www.hepo-dakar.com/programmes/se-preparer-a-une-cybercrise/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1434
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1434 to https://www.hepo-dakar.com/programmes/se-proteger-contre-les-cybercriminels/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1429
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1429 to https://www.hepo-dakar.com/programmes/bien-identifier-linformation-strategique-a-proteger/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1474
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1474 to https://www.hepo-dakar.com/programmes/developper-sa-cybercompetitivite/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1453
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1453 to https://www.hepo-dakar.com/programmes/evoluer-dans-le-monde-numerique/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1412
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1412 to https://www.hepo-dakar.com/programmes/le-vocabulaire-de-la-cyber-securite/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1396
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1396 to https://www.hepo-dakar.com/programmes/les-menaces-du-cyber-espace/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1306
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1306 to https://www.hepo-dakar.com/programmes/technique-de-pentest/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1290
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1290 to https://www.hepo-dakar.com/programmes/hacking-applicatif/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1277
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1277 to https://www.hepo-dakar.com/programmes/hacking-reseau/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1282
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1282 to https://www.hepo-dakar.com/programmes/hacking-web/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1298
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1298 to https://www.hepo-dakar.com/programmes/hacking-windows/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1241
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1241 to https://www.hepo-dakar.com/programmes/les-fondamentaux-du-hacking/
+21:45:27	Error: 	"Not Found" (404) at link https://www.hepo-dakar.com/wp-content/uploads/2022/02/Hacker-Thumb-a1.webp (from https://www.hepo-dakar.com/programmes/les-fondamentaux-du-hacking/)
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1420
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1420 to https://www.hepo-dakar.com/programmes/ransomware-comment-sen-proteger/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1381
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1381 to https://www.hepo-dakar.com/programmes/la-gestion-des-log/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1352
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1352 to https://www.hepo-dakar.com/programmes/les-bases-de-la-cryptographie/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1370
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1370 to https://www.hepo-dakar.com/programmes/detection-dintrusions/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1321
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1321 to https://www.hepo-dakar.com/programmes/les-fondamentaux-niveau-1/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=1343
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=1343 to https://www.hepo-dakar.com/programmes/les-fondamentaux-niveau-2/
+21:45:27	Warning: 	Moved Permanently for https://www.hepo-dakar.com/?p=3140
+21:45:27	Warning: 	File has moved from https://www.hepo-dakar.com/?p=3140 to https://www.hepo-dakar.com/simple-tips-to-overcome-a-fearful-avoidant-accessory-style-the-woman-standard/
+21:45:27	Error: 	"Method Not Allowed" (405) at link https://www.hepo-dakar.com/xmlrpc.php (from https://www.hepo-dakar.com/simple-tips-to-overcome-a-fearful-avoidant-accessory-style-the-woman-standard/)
+21:45:29	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/feed/ (from https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/)
+21:45:29	Warning: 	Retry after error -2 (Connect Time Out) at link https://www.hepo-dakar.com/?p=3132 (from https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/)
+21:45:29	Warning: 	Retry after error -2 (Connect Time Out) at link https://www.hepo-dakar.com/best-nude-onlyfans-nudeshub-net/ (from https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/)
+21:45:29	Warning: 	Retry after error -2 (Connect Time Out) at link https://www.hepo-dakar.com/tiktokers-onlyfans-only-fans-model/ (from https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/)
+21:45:29	Warning: 	Retry after error -2 (Connect Time Out) at link https://www.hepo-dakar.com/the-simplest-way-to-generally-meet-milfs-inside-my-region/feed/ (from https://www.hepo-dakar.com/the-simplest-way-to-generally-meet-milfs-inside-my-region/)
+21:45:29	Warning: 	File not added due to mirror cancel: https://www.hepo-dakar.com/?p=3122
+21:45:29	Error: 	"mirror stopped by user" (-1) at link https://www.hepo-dakar.com/?p=3122 (from https://www.hepo-dakar.com/the-simplest-way-to-generally-meet-milfs-inside-my-region/)
+21:45:29	Warning: 	File not added due to mirror cancel: https://www.hepo-dakar.com/best-big-tits-onlyfans-try-now-onlyfans-model/
+21:45:29	Error: 	"mirror stopped by user" (-1) at link https://www.hepo-dakar.com/best-big-tits-onlyfans-try-now-onlyfans-model/ (from https://www.hepo-dakar.com/the-simplest-way-to-generally-meet-milfs-inside-my-region/)
+21:45:29	Warning: 	File not added due to mirror cancel: https://www.hepo-dakar.com/best-twitter-onlyfans-accounts-best-only-fans/
+21:45:29	Error: 	"mirror stopped by user" (-1) at link https://www.hepo-dakar.com/best-twitter-onlyfans-accounts-best-only-fans/ (from https://www.hepo-dakar.com/the-simplest-way-to-generally-meet-milfs-inside-my-region/)
+21:45:29	Warning: 	File not added due to mirror cancel: https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/feed/
+21:45:29	Error: 	"mirror stopped by user" (-1) at link https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/feed/ (from https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/)
+21:45:29	Warning: 	File not added due to mirror cancel: https://www.hepo-dakar.com/?p=3132
+21:45:29	Error: 	"mirror stopped by user" (-1) at link https://www.hepo-dakar.com/?p=3132 (from https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/)
+21:45:29	Warning: 	File not added due to mirror cancel: https://www.hepo-dakar.com/best-nude-onlyfans-nudeshub-net/
+21:45:29	Error: 	"mirror stopped by user" (-1) at link https://www.hepo-dakar.com/best-nude-onlyfans-nudeshub-net/ (from https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/)
+21:45:29	Warning: 	File not added due to mirror cancel: https://www.hepo-dakar.com/tiktokers-onlyfans-only-fans-model/
+21:45:29	Error: 	"mirror stopped by user" (-1) at link https://www.hepo-dakar.com/tiktokers-onlyfans-only-fans-model/ (from https://www.hepo-dakar.com/best-spots-to-meet-babes-in-raleigh-dating-guide-worlddatingguides/)
+21:45:29	Warning: 	File not added due to mirror cancel: https://www.hepo-dakar.com/the-simplest-way-to-generally-meet-milfs-inside-my-region/feed/
+21:45:29	Error: 	"mirror stopped by user" (-1) at link https://www.hepo-dakar.com/the-simplest-way-to-generally-meet-milfs-inside-my-region/feed/ (from https://www.hepo-dakar.com/the-simplest-way-to-generally-meet-milfs-inside-my-region/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 20 minutes 35 seconds : 1621 links scanned, 1356 files written (182109439 bytes overall) [110892198 bytes received at 13146 bytes/sec], 100891240 bytes transferred using HTTP compression in 978 files, ratio 20%
+(75 errors, 384 warnings, 0 messages)
